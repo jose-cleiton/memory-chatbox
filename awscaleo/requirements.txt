@@ -1,1 +1,4 @@
 openai 
+boto3
+langchain
+langchain_openai
